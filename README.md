@@ -1,6 +1,7 @@
 # Octor 
+![Crates.io Version](https://img.shields.io/crates/v/octor)
 
-<img src="./static/a02dca62-d98b-46a9-b72f-49236ac21480.webp" alt="Octor logo" width="200"/>
+<img  src="./static/a02dca62-d98b-46a9-b72f-49236ac21480.webp" alt="Octor logo" width="200"/>
 
 
 Welcome to Octor, a versatile command-line tool designed for managing and transforming your markdown files with ease. Whether you're consolidating documentation, preparing content for web publishing, or simply organizing your markdown files, Markdown Merger is here to streamline the process. Built with simplicity and efficiency in mind, this tool supports merging multiple markdown files into a single document and converting markdown to HTML.
