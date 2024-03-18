@@ -1,0 +1,20 @@
+[package]
+name = "octor"
+version = "0.1.1"
+edition = "2021"
+description = "rmd combines all readmes into one"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.35"
+clap = { version = "4.5.3", features = ["derive"] }
+comrak = "0.21.0"
+fern = "0.6.2"
+humantime = "2.1.0"
+log = "0.4.21"
+serde = { version = "1.0.197", features = ["derive"] }
+tokio = { version = "1.36.0", features = ["full"] }
+toml = "0.8.11"
+walkdir = "2.5.0"
